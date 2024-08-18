@@ -1,6 +1,8 @@
 Consulta CEP
 
+
 Um aplicativo em Delphi 11 Community para consulta e gerenciamento de informações de CEP utilizando padrões de repositório. Este projeto demonstra a utilização da arquitetura de software e patterns como Repository e a integração com APIs para validação e recuperação de dados de endereços.
+
 
 Arquitetura Utilizada:
 
@@ -15,6 +17,7 @@ FireDAC: Biblioteca para acesso e manipulação de bancos de dados, utilizada pa
 REST Client Library: Utilizada para fazer requisições HTTP para APIs externas como ViaCEP.
 
 
+
 Como Executar o Aplicativo:
 
 Pré-requisitos
@@ -25,11 +28,13 @@ Configuração da Conexão com o Banco de Dados
 Abra o arquivo Connection.pas e ajuste os parâmetros de conexão do TFDConnection conforme a configuração do seu banco de dados Firebird.
 
 
+
 Compilação e Execução:
 
 Abra o projeto no Delphi 11 Community.
 Compile o projeto.
 Execute o aplicativo e utilize a interface para consultar e gerenciar informações de CEP.
+
 
 
 Funcionalidades:
