@@ -40,6 +40,9 @@ Execute o aplicativo e utilize a interface para consultar e gerenciar informaç�
 Funcionalidades:
 
 Consulta por CEP: Permite ao usuário buscar um endereço através de um CEP válido.
+
 Consulta por Endereço Completo: Caso o CEP não esteja disponível, o usuário pode buscar utilizando a combinação de logradouro, localidade e UF.
+
 Atualização de Dados: Se o endereço já estiver armazenado na base de dados, o usuário pode optar por atualizá-lo com as informações mais recentes.
+
 Formatos de Resposta: Suporte tanto para respostas em JSON quanto em XML.
