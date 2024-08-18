@@ -71,7 +71,7 @@ object Form1: TForm1
       Width = 75
       Height = 25
       Caption = 'Consultar'
-      TabOrder = 0
+      TabOrder = 6
       OnClick = btnCepClick
     end
     object edLogradouro: TEdit
@@ -86,14 +86,14 @@ object Form1: TForm1
       Top = 146
       Width = 163
       Height = 23
-      TabOrder = 2
+      TabOrder = 3
     end
     object edBairro: TEdit
       Left = 16
       Top = 146
       Width = 201
       Height = 23
-      TabOrder = 3
+      TabOrder = 2
     end
     object edUF: TEdit
       Left = 392
@@ -120,7 +120,7 @@ object Form1: TForm1
       Items.Strings = (
         'JSON'
         'XML')
-      TabOrder = 6
+      TabOrder = 7
     end
     object edCep: TEdit
       Left = 16
@@ -128,7 +128,7 @@ object Form1: TForm1
       Width = 121
       Height = 23
       MaxLength = 9
-      TabOrder = 7
+      TabOrder = 0
       OnExit = edCepExit
       OnKeyPress = edCepKeyPress
     end
