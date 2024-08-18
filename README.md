@@ -20,7 +20,6 @@ Firebird instalado e configurado.
 Configuração da Conexão com o Banco de Dados
 
 Abra o arquivo Connection.pas e ajuste os parâmetros de conexão do TFDConnection conforme a configuração do seu banco de dados Firebird.
-Configuração das APIs
 
 
 Compilação e Execução:
