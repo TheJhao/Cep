@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/17 20:15:41.000.088,=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit1.pas</Transaction>
+    <Transaction>2024/08/17 20:20:53.000.065,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit1.pas=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\ClassEndereco.pas</Transaction>
+    <Transaction>2024/08/17 20:22:42.000.710,=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas</Transaction>
+    <Transaction>2024/08/17 20:23:20.000.193,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\InterfaceEndereco.pas</Transaction>
+    <Transaction>2024/08/17 20:23:28.000.115,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\ClassEndereco.pas=</Transaction>
+    <Transaction>2024/08/17 20:23:36.000.483,=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas</Transaction>
+    <Transaction>2024/08/17 20:23:42.000.724,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\ClassEndereco.pas</Transaction>
+    <Transaction>2024/08/17 20:34:38.000.940,=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas</Transaction>
+    <Transaction>2024/08/17 20:35:24.000.456,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Endereco.pas</Transaction>
+    <Transaction>2024/08/17 20:56:11.000.504,=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas</Transaction>
+    <Transaction>2024/08/17 20:58:05.000.652,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\BuscarEndereco.pas</Transaction>
+    <Transaction>2024/08/17 21:10:19.000.330,=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas</Transaction>
+    <Transaction>2024/08/17 21:10:40.000.974,F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Unit2.pas=F:\Arquivos de Programas\Delphi CE\Projetos\Cep\Connection.pas</Transaction>
+  </Transactions>
+</BorlandProject>
