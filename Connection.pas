@@ -14,7 +14,8 @@ begin
   AConnection := TFDConnection.Create(nil);
   try
     AConnection.DriverName := 'FB';
-    AConnection.Params.Database := 'C:\databases\Enderecodb.fdb';
+    AConnection.Params.Database := ExtractFilePath(ParamStr(0))+'databases\Enderecodb.fdb';
+
     AConnection.Params.UserName := 'sysdba';
     AConnection.Params.Password := 'sysdba';
     AConnection.Params.Add('Server=127.0.0.1');
