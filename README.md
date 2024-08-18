@@ -9,8 +9,11 @@ Repository Pattern: Utilizado para separar a lógica de acesso a dados da lógic
 Componentes e Bibliotecas:
 
 Delphi 11 Community: Ambiente de desenvolvimento integrado (IDE) utilizado para criar o aplicativo.
+
 FireDAC: Biblioteca para acesso e manipulação de bancos de dados, utilizada para a conexão e operações com o Firebird.
+
 REST Client Library: Utilizada para fazer requisições HTTP para APIs externas como ViaCEP.
+
 
 Como Executar o Aplicativo:
 
@@ -27,9 +30,6 @@ Compilação e Execução:
 Abra o projeto no Delphi 11 Community.
 Compile o projeto.
 Execute o aplicativo e utilize a interface para consultar e gerenciar informações de CEP.
-Arquitetura e Patterns Aplicados
-Repository Pattern
-O padrão Repository foi utilizado para isolar a lógica de acesso a dados e permitir a manipulação de objetos de dados sem expor a lógica de persistência:
 
 
 Funcionalidades:
